@@ -38,7 +38,3 @@
 *"Write code that is clear, not clever. Simplicity is the ultimate sophistication."*
 
 ---
-
-## 📊 GitHub Stats
-
-![Noor Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=noorahmadazimi&show_icons=true&theme=radical)
