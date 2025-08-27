@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Noor Ahmad Azimi
 
 💻 Senior Frontend Developer (Angular/React) | Building clean & delightful UIs  
-🌱 Currently working on Angular and learning deep React  
+🌱 Currently working on Angular & React  
 
 ---
 
